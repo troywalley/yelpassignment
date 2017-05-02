@@ -1,0 +1,28 @@
+.navbar {
+  height: 100px; }
+
+.searchcontainer {
+  display: flex;
+  justify-content: center;
+  height: 40px; }
+
+.searchbar {
+  width: 300px; }
+
+.searchresultscontainer {
+  width: 75%;
+  float: right;
+  margin-right: 100px;
+  height: auto;
+  background-color: #56abd2; }
+
+.individualresults {
+  width: 100%;
+  border-top: 2px solid black;
+  display: flex;
+  justify-content: space-between; }
+
+body {
+  background-color: teal; }
+
+/*# sourceMappingURL=styles.css.map */
